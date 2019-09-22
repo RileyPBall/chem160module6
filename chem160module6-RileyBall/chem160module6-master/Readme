@@ -1,0 +1,26 @@
+Module 6 files
+The respository should start out containing the following files (these will be edited by you during module):
+cards.py
+ising_class.py
+oomd.py
+oomd_class.py
+ipd.py
+ipd_class.py
+sudoku.py
+Blackjack_Monte_Carlo.py
+Blackjack_classes.py
+
+Before uploading the completed module to your GitHub account, it should contain the following additional (or completed) files:
+cardgame.py
+print.py
+vehicles.py
+point.py
+oo_ising.py
+oo_ising_loop.py
+spintest.py
+printspin.py
+celltest.py
+ising_class2.py
+oo_ising_loop2.py
+ipd_class.py
+sudoku_test.py
